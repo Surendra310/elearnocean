@@ -1,0 +1,67 @@
+.table th, .table td {
+    padding: 5px;
+}
+.editBtn {
+    font-size: 20px;
+    color: #009edf !important;
+    margin-right: 10px;
+}
+.deleteBtn {
+    font-size: 20px;
+    color: red !important;
+}
+
+.borderPanel {
+    border: 1px solid #ccc;
+}
+.lightBlueBg {
+    background-color: #9CD4EB;
+}
+.whiteBg {
+    background: white;
+}
+.fleft {
+    float: left;
+}
+
+.fright {
+    float: right;
+}
+.txtLeft {
+    text-align: left;
+}
+.txtRight {
+    text-align: right;
+}
+.txtCenter {
+    text-align: center;
+}
+.width_full {
+    width: 100%;
+}
+.width98 {
+    width: 98%;
+}
+.width60 {
+    width: 60%
+}
+.width15 {
+    width: 15%;
+}
+.width10 {
+    width: 10%;
+}
+.margin15{
+    margin: 15px;
+}
+
+.padding0 { padding: 0px;}
+.padding15 { padding: 15px;}
+
+.marginBtm10 {
+    margin-bottom: 10px;
+}
+
+.marginRgt20{
+    margin-right: 20px;
+}
