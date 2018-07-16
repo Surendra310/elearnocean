@@ -45,6 +45,9 @@
 .width60 {
     width: 60%
 }
+.width20 {
+    width: 20%;
+}
 .width15 {
     width: 15%;
 }
@@ -64,4 +67,18 @@
 
 .marginRgt20{
     margin-right: 20px;
+}
+
+
+
+
+.markTxt {
+    float: left;
+    width: 60%;
+    margin-left: 10px;
+}
+
+.linkTxt {
+    cursor:pointer;
+    text-decoration: underline;
 }
